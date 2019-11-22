@@ -16,7 +16,7 @@ while valido != 5:
                 [2]Conversor de Moeda
                 [3]Calcular Desconto
                 [4]Calculadora cientifica
-                [5]Calculadora comum\033[m''')
+                \033[m''')
     elif valido == 2:
         conversor = 0
         while conversor != 2:
